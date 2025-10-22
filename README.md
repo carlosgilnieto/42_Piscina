@@ -8,7 +8,7 @@ Este repositorio recopila los ejercicios y proyectos realizados durante mi pisci
 
 ⚠️ IMPORTATE ⚠️
 
-*El código de los ejercicios no son la solución exacta, son mi manera de resolverlo, te invito a que te sirva de guía pero no sirve .*
+*El código de los ejercicios no son la solución exacta, son mi manera de resolverlo, te invito a que te sirva de guía pero no sirve CTRL+C y CTRL+V.*
 
 ### Calificaciones.
 | Entrega      | Calificación   | Especificación |
