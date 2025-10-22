@@ -17,7 +17,7 @@ Este repositorio recopila los ejercicios y proyectos realizados durante mi pisci
 | [Shell_01](./Shell_01) 	 | 55% :heavy_check_mark: | ex01: OK \| ex02: OK \| ex03: OK \| ex04: OK \| ex05: OK \| ex06: Nothing turned in \| ex07: Nothing turned in \| ex08: Nothing turned in|
 | [C_00](./C_00) 	         | 70% :heavy_check_mark: | ex00: OK \| ex01: OK \| ex02: OK \| ex03: OK \| ex04: OK \| ex05: OK \| ex06: OK \| ex07: KO \| ex08: OK|
 | [C_01](./C_01) 	         | 70% :heavy_check_mark: | ex00: OK \| ex01: OK \| ex02: OK \| ex03: OK \| ex04: OK \| ex05: OK \| ex06: OK \| ex07: KO \| ex08: Does not compile|
-| [C_02](./C_02) 	         | 65% :heavy_check_mark: | ex00: OK \| ex01: OK \| ex02: OK \| ex03: OK \| ex04: OK \| ex05: OK \| ex06: OK \| ex07: OK \| ex08: OK \| ex09: OK | ex10: KO | ex11: Nothing turned in | ex12: Nothing turned in |
+| [C_02](./C_02) 	         | 65% :heavy_check_mark: | ex00: OK \| ex01: OK \| ex02: OK \| ex03: OK \| ex04: OK \| ex05: OK \| ex06: OK \| ex07: OK \| ex08: OK \| ex09: OK \| ex10: KO \| ex11: Nothing turned in \| ex12: Nothing turned in |
 | [C_03](./C_03) 	         | 75% :heavy_check_mark: | ex00: OK \| ex01: OK \| ex02: OK \| ex03: OK \| ex04: OK \| ex05: KO |
 | [C_04](./C_04) 	         | 70% :heavy_check_mark: | ex00: OK \| ex01: OK \| ex02: OK \| ex03: OK \| ex04: Nothing turned in \| ex05: Nothing turned in |
 | [C_05](./C_05) 	         | 80% :heavy_check_mark: | ex00: OK \| ex01: OK \| ex02: OK \| ex03: OK \| ex04: OK \| ex05: OK \| ex06: OK \| ex07: OK \| ex08: Nothing turned in |
